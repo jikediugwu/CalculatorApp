@@ -1,3 +1,4 @@
+<!-- An XML file that specify the strings used in the app-->
 <resources>
     <string name="app_name">WorstCalculator</string>
     <string name="_0">0</string>
@@ -11,8 +12,6 @@
     <string name="_1">1</string>
     <string name="_4">4</string>
     <string name="_7">7</string>
-    <string name="minus">-</string>
     <string name="equals">=</string>
-    <string name="plus">+</string>
     <string name="_9">9</string>
 </resources>
